@@ -13,13 +13,13 @@ This project is a meeting scheduler application that helps users organize and ma
    git clone https://github.com/Olaseni-dev/meeting-scheduler.git
 2. Install dependencies:
   ```bash
-npm install
+   npm install
 
 3. Start the application:
     ```bash
-  npm start
+    npm start
 
-**## Usage**
+## Usage
 
 Open http://localhost:3000 in your web browser.
 Create and manage your meetings easily.
